@@ -527,7 +527,7 @@ body.modo-oscuro {
     }
 }
 body.modo-oscuro {
-    background: linear-gradient(to bottom, #1a1a1a, #2d2d2d);
+    background: linear-gradient(to bottom, #ffffff, #9cdfda);
     color: #ffffff;
 }
 
