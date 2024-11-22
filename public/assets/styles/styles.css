@@ -60,9 +60,9 @@ body {
     color: #f7f7f7;
     border: none;
     font-family: 'Inter', sans-serif;
-    font-size: 18px;
+    font-size: 19px;
     padding: 12px 30px;
-    border-radius: 25px;
+    border-radius: 23px;
     cursor: pointer;
     transition: transform 0.3s ease;
 }
