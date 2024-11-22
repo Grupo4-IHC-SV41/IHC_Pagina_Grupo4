@@ -15,8 +15,8 @@ body {
 
 /* Estilos de la barra de navegación */
 .barra-navegacion {
-    background-color: #09645e;
-    display: flex;
+    background-color:##95d3cf;
+    display:flex;
     justify-content: space-between;
     padding: 15px 30px;
     align-items: center;
